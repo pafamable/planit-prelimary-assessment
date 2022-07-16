@@ -1,5 +1,5 @@
-# planit-prelimary-assessment
-This repository is my submission for SDET Opportunity for Planit Test Management Solutions
+# Planit SDET Opportunity - Preliminary Assessment Submission
+This repository is my submission for SDET Opportunity for Planit Test Management Solutions.
 
 # Task 1
 Task 1 involves determining 10 test cases for a sample website, which will reflect the priorities for the said website.
